@@ -1,1 +1,3 @@
-# Version
+{
+  "version": "v1.0",
+}
